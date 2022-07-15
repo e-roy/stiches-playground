@@ -1,8 +1,8 @@
 # Stitches Playground
 
-just a loose setup of a stitches css playground
+Just a loose setup of a stitches css playground
 
-[Stitches] https://stitches.dev/docs/introduction
+[Stitches](https://stitches.dev/docs/introduction)
 
 ### `yarn start`
 
